@@ -41,7 +41,7 @@ Heeding Guelke's (2011) call to consider the meanings communicated in our maps, 
 Critiquing the final products, both maps can generally be considered to achieve its original purposes. A perceiver would be able to single out LSOAs with concentrations of income deprivation coinciding with poor public transport accessibility from Map 1, while the spatial clustering patterns of pubs in Great Britain can be observed in Map 2. However, imperfections with the maps are acknowledged. For instance, while displaying the nuances of spatial data in 9 different classes on Map 1 augments the richness of detail, it could be perceived as over-complicated and hinder interpretation. With both static maps compacting in multiple layers of information presented at broad scales, it entails challenges in incorporating additional features like city or street names to aid orientation. However, this draw-back could be addressed with the use of digital maps that allows the zooming into smaller scales. 
 
 
-**Map 2a: Screengrab of the interactive Dot-density Map focusing on the spread of pubs in London, as a subset of the larger Great Britain dataset.Interactive map can be viewed at this website: (http://rpubs.com/jytg17/436421) **
+**Map 2a: Screengrab of the interactive Dot-density Map focusing on the spread of pubs in London, as a subset of the larger Great Britain dataset.Refer to link: http://rpubs.com/jytg17/436421 for actual interactive map.**
 ```{r, echo=FALSE}
 library(knitr)
 library(png)
