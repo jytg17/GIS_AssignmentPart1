@@ -17,7 +17,7 @@ Map 1 was conceived from the objective of highlighting areas where concentration
 ```{r, echo=FALSE}
 library(knitr)
 library(png)
-img1_path <- "N:/GIS_code/GIS_Assessment_Pt1/Maps/assignment_lr.png"
+img1_path <- "https://github.com/jytg17/GIS_CODE/blob/master/GIS_Assessment_Pt1/Maps/assignment_lr.png"
 include_graphics(img1_path)
 ```
 
@@ -29,7 +29,7 @@ In comparison, map 2 was driven by the inspiration to understand the spatial dis
 ```{r, echo=FALSE}
 library(knitr)
 library(png)
-img2_path <- "N:/GIS_code/GIS_Assessment_Pt1/Maps/Map 2_GIS assignment_R.png"
+img2_path <- "https://github.com/jytg17/GIS_CODE/blob/master/GIS_Assessment_Pt1/Maps/Map%202_GIS%20assignment_R.png"
 include_graphics(img2_path)
 ```
 
@@ -44,7 +44,7 @@ Critiquing the final products, both maps can generally be considered to achieve 
 ```{r, echo=FALSE}
 library(knitr)
 library(png)
-img2a_path <- "N:/GIS_code/GIS_Assessment_Pt1/Maps/Interactive_screengrab.png"
+img2a_path <- "https://github.com/jytg17/GIS_CODE/blob/master/GIS_Assessment_Pt1/Maps/Interactive_screengrab.PNG"
 include_graphics(img2a_path)
 ```
 
