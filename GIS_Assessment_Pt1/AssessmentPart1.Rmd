@@ -3,10 +3,9 @@ title: "AssessmentPart1"
 author: "Joshua Yee"
 date: "5 November 2018"
 output:
-  html_document: default
-  
-bibliography:
-  GIS Assignment.bib
+  rmarkdown::github_document
+
+bibliography: GIS Assignment.bib
 ---
 
 The genesis of any map is rooted in the specific agenda that it is meant to achieve. It is argued that clarifying one's objectives is fundamental to the practice of developing maps as it defines the subsequent processes of data identification and content representation (Harley, 1989; Krygier and Wood, 2016). 
